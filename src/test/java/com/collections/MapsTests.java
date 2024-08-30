@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import java.util.*;
 
-public class MapsTests {
+public class  MapsTests {
 
     @Test
     public void testCreateInventory() {

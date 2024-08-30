@@ -1,3 +1,5 @@
+package com.collections;
+
 import com.collections.Sets;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
